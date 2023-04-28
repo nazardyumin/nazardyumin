@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/nazardyumin" target="_blank">Nazar</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IT student from Russia</h3>
+<h1 align="left">Hi there, I'm <a href="https://github.com/nazardyumin" target="_blank">Nazar</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> - IT student from Russia</h1>
 <h3 align="left">My skills:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
